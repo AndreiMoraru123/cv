@@ -92,7 +92,7 @@
 ][
   2023
 ][
- - A TensorFlow take on _Attention is All You Need_ on the original En-De datasets from the paper.
+ - A modern TensorFlow take on _Attention is All You Need_ on the original En-De datasets from the paper.
 ]
 
 #entry[
@@ -101,7 +101,7 @@
 ][
   2023
 ][
- - A modern TensorFlow adaptation of the CVPR paper using GANs to super-resolve images.
+ - A TensorFlow adaptation of the CVPR paper using GANs to super-resolve images.
 ]
 
 #entry[
