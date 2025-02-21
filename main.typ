@@ -144,4 +144,4 @@
 
 *Frameworks:* PyTorch · TensorFlow · Numpy · Numba · AzureML · Pandas/Polars · OpenCV · Scikit-Learn
 
-*Infrastructure and Tools:* Docker · CMake · Bazel · Jenkins · Linux · Git · GitHub Actions
+*Infrastructure and Tools:* Docker · CMake · Bazel · Azure · Jenkins · Linux · Git · GitHub Actions
