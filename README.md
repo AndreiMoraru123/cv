@@ -1,1 +1,1 @@
-![Resume Preview](main.png)
+![Resume Preview](resume.png)
