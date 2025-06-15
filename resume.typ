@@ -142,6 +142,6 @@
 
 *Programming Languages:* Python · C++ · C\# · Java · MATLAB · C · CUDA · JavaScript/TypeScript
 
-*Frameworks:* PyTorch · TensorFlow · Numpy · Numba · AzureML · Pandas/Polars · OpenCV · Scikit-Learn
+*Frameworks:* PyTorch · TensorFlow · NumPy · Numba · AzureML · Pandas/Polars · OpenCV · Scikit-learn
 
 *Infrastructure and Tools:* Docker · CMake · Bazel · Azure · Jenkins · Linux · Git · GitHub Actions
