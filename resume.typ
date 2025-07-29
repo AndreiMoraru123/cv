@@ -8,6 +8,7 @@
   link("mailto:andreimoraru1999123@gmail.com"),
   link("https://www.linkedin.com/in/andrei-moraru-879593345")[#fab("linkedin") Andrei Moraru],
   link("https://github.com/AndreiMoraru123")[#fab("github") AndreiMoraru123],
+  [#fas("location-dot") Romania]
 )
 
 // Title row.
@@ -25,9 +26,9 @@
   March 2023 -- Present
 ][
   - Mainly contributed to an Object Detection head as part of a feature team for a multi-task perception project.
-  - I also helped working on parts of the (initially) TensorFlow based training framework, such as data pipeline, training callbacks, evaluation metrics, video pipeline. I developed a great interest for working on the library, such that when the project migrated to PyTorch, I began working on it under a clearly defined role.
-  - Took side-quests like building azure pipelines, a label converter, a CUDA kernel, a custom K-Means implementation, a Voxel51 representation for our detection dataset, and various tools for experimental tasks.
-  - Wrote documentation, tutorials and held some presentations for how to get set up and started with both the development environment and the tools that had I worked on.
+  - I also helped work on parts of the (initially) TensorFlow-based training framework, such as data pipeline, training callbacks, evaluation metrics, and video pipeline. I developed a great interest in working on the library, such that when the project migrated to PyTorch, I began working on it under a clearly defined role.
+  - Took side-quests like building Azure pipelines, a label converter, a CUDA kernel, and a custom K-Means implementation, a Voxel51 representation for our detection dataset, and various tools for experimental tasks.
+  - Wrote documentation, tutorials, and held some presentations on how to get set up and started with both the development environment and the tools that I had worked on.
 ]
 
 #entry[
@@ -133,7 +134,7 @@
 ][
   \
   2018 -- 2022 \
-  2022 -- Present
+  2022 -- 2025
 ][ ]
 
 
